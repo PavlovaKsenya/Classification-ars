@@ -1,3 +1,9 @@
+Папка *test* - исходный тестовый датасет (8041 изображений).
+
+Папка *train_with_classes* - тренировочный с аугментацией, внутри 196 папок, в каждой +-1000 изображений.
+
+
+
 This file gives documentation for the cars 196 dataset.
 (http://ai.stanford.edu/~jkrause/cars/car_dataset.html)
 
